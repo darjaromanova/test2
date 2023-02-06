@@ -1,2 +1,3 @@
 Šajā datne testēsim izmaiņas
-Šī ir otra rinda
+
+Šo rindu es rakstu, kā trešo
